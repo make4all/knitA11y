@@ -2,11 +2,11 @@
 
 ## Set Up
 
-This project may work on older versions of Python, but it was developed with Python 3.9
+<!-- This project may work on older versions of Python, but it was developed with Python 3.9
 
 Particularly if you are a Windows User I highly recommend running this code as a [PyCharm Project](https://www.jetbrains.com/help/pycharm/importing-project-from-existing-source-code.html).
 
-Otherwise:
+Otherwise: -->
 
 Install the required packages using the `environment.yml` file:
 
